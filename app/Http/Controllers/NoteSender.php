@@ -12,7 +12,7 @@ class NoteSender extends Controller
 {
     const SECRET_KEY = 'hn1EsGON707Lfv6gsGTMjlwXoUVkgRtna6oBxRVVoQ3TlhG5AzVJOQSzL5UAlSMn';
     const INTEGRATION_ID = 'f20ce64a-8bfc-4281-812c-446ac8151ded';
-    const REDIRECT_URI = 'https://f649-109-252-186-103.ngrok-free.app/token';
+    const REDIRECT_URI = 'https://b3ff-109-252-186-103.ngrok-free.app/token';
 
     public function handler(Request $request)
     {
